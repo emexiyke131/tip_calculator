@@ -1,0 +1,81 @@
+
+body{
+	font-weight: 700;
+	font-family: monospace;
+	background-color: black;
+	color: white;
+}
+
+#tip{
+	border: 1px solid black;
+	width: 600px;
+	height: 400px;
+	margin-left: 300px;
+	padding-left: 30px;
+	padding-top: 50px;
+	font-size: 20px;
+	font-weight: 700;
+	margin-top: 30px;
+	background-color: DarkSlateGray ;
+
+
+}
+
+#tip input#price{
+	width: 200px;
+	height: 25px;
+	border-radius: 5px;
+	padding-left: 15px;
+	font-size: 10px;
+	margin-left: 85px;
+}
+#tip input#name{
+ 	width: 200px;
+	height: 25px;
+	border-radius: 5px;
+	padding-left: 15px;
+	font-size: 13px;
+	margin-left: 170px;
+}
+
+#tip input#email{
+ 	width: 200px;
+	height: 25px;
+	border-radius: 5px;
+	padding-left: 15px;
+	font-size: 13px;
+	margin-left: 160px;
+}
+
+#tip select#rate{
+	width: 220px;
+	margin-left: 10px;
+	height: 30px;
+	border-radius: 5px;
+
+}
+
+#tip input#tipfeild{
+	width: 200px;
+	height: 25px;
+	border-radius: 5px;
+	padding-left: 15px;
+	font-size: 13px;
+	margin-left: 110px;
+}
+h1{
+	margin-left: 530px;
+	margin-top: 50px;
+	font-size: 40px;
+}
+
+button{
+	width: 120px;
+	height: 40px;
+	margin-left: 170px;
+	margin-top: 20px;
+	border:none;
+	background-color: black;
+	color: white;
+	outline: none;
+}
